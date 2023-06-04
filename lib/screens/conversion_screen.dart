@@ -22,14 +22,14 @@ class ConversionScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const CurrencyCard(
-              countryName: 'Cambodia',
+              countryName: 'cambodia',
               countryCode: 'kh',
             ),
             const SizedBox(
               height: 20,
             ),
             const CurrencyCard(
-              countryName: 'USA',
+              countryName: 'usa',
               countryCode: 'us',
             ),
             const SizedBox(
@@ -37,7 +37,7 @@ class ConversionScreen extends StatelessWidget {
             ),
             const CurrencyCard(
               // TODO how to make this card a user defined country
-              countryName: 'Australia',
+              countryName: 'australia',
               countryCode: 'au',
             ),
             const SizedBox(

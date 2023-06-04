@@ -21,6 +21,4 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/au.png
-    - assets/images/kh.png
-    - assets/images/us.png
+    - assets/flags/
